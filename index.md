@@ -9,6 +9,7 @@ page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
 ---
+<head>
 <style>
 .button {
   background-color: #117dbd;
@@ -20,6 +21,7 @@ page.button1.external_url:
   margin: 4px 2px;
 }
 </style>
+</head>
 
 [Jacquomo Monk](mailto:Jacquomo.monk@utas.edu.au), [Neville Barrett](mailto:neville.barrett@utas.edu.au), Tom Bridge, Andrew Carroll, Ariell Friedman, Nicole Hill, Daniel Ierodiaconou, Alan Jordan, Gary Kendrick, Vanessa Lucieer
 
