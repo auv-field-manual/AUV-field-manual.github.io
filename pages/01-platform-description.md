@@ -22,4 +22,4 @@ While most of the well-known AUVs used in scientific research are custom built, 
 
 ![image alt text](image_0.png)
 
-Figure 4.1 Examples of AUV classes. Left: an example of the cruising class AUV *Nupiri** **muka** *operated by the University of Tasmania (photo credit: Damien Guihen). Right: an example of the hovering class AUV *Sirius** *operated by Australian Centre for Field Robotics for Integrated Marine Observing System (Photo credit: Asher Flatt).
+Figure 4.1 Examples of AUV classes. Left: an example of the cruising class AUV *Nupiri muka* operated by the University of Tasmania (photo credit: Damien Guihen). Right: an example of the hovering class AUV *Sirius* operated by Australian Centre for Field Robotics for Integrated Marine Observing System (Photo credit: Asher Flatt).
