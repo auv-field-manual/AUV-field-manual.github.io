@@ -11,6 +11,7 @@ page.button1.external_url:
 ---
 <head>
 <style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 .button {
   background-color: #117dbd;
   border: none;
@@ -30,6 +31,6 @@ page.button1.external_url:
 Chapter citation:
 Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Kendrick G, Lucieer V. 2018. Marine sampling field manual for autonomous underwater vehicles (AUVs). In Field Manuals for Marine Sampling to Monitor Australian Waters,Version 2. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP). 
 
-
+<button class="btn"><i class="fa fa-home"></i> Home</button>
 
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="button">Sign up to Mailing List</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="button">Give Feedback</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="button">Download Manual</a> </center>
