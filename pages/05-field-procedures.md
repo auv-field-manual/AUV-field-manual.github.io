@@ -8,8 +8,6 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
-# **Field**** ****Procedures**
-
 ## **Onboard sample acquisition**
 
 ### Complete an on-site briefing.
