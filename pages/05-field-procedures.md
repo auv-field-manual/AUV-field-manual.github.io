@@ -136,7 +136,7 @@ Prior to any vessel movement or engine start-up, operators should check the foll
 
 * An "All Clear to Move" command is given to vessel Master when the AUV team is satisfied it is OK for the vessel to move on.
 
-## **Onboard**** ****data**** ****processing and storage**
+## Onboard data processing and storage
 
 6. Once the AUV transect is complete, it is good practice to download associated raw imagery and associated positional data. Imagery and associated positional data should be checked to ensure no failures have occurred, including but not limited to the following: 
 
