@@ -8,13 +8,19 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
-## **Onboard**** ****sample**** ****acquisition**** **
+# **Field**** ****Procedures**
 
-Complete an on-site briefing. Prior to deployment, a deployment briefing should always be completed to ensure the operation can be completed safely. Always take a precautionary approach to risks associated with vehicle deployment. See Chapter 1 for further information about risk assessments.
+## **Onboard sample acquisition**
 
-Set up and test AUV system. Allow sufficient time during survey mobilisation to undertake system checks, calibrations and testing of equipment and account for unforeseen problems; in most cases it will be possible to complete all system setup and tests within half a day. The conduct of pre-start checks should be noted in the trip log and any test failures specifically recorded for later-reference. Detailed settings for each component should be made using relevant operations manuals (e.g. USBL operations manual etc.).
+### Complete an on-site briefing.
 
-*On-deck** **tests** **should** **include,** **but** **not** **limited** **to,** **the** **following** **checks:*
+Prior to deployment, a deployment briefing should always be completed to ensure the operation can be completed safely. Always take a precautionary approach to risks associated with vehicle deployment. See Chapter 1 for further information about risk assessments.
+
+### Set up and test AUV system. 
+
+Allow sufficient time during survey mobilisation to undertake system checks, calibrations and testing of equipment and account for unforeseen problems; in most cases it will be possible to complete all system setup and tests within half a day. The conduct of pre-start checks should be noted in the trip log and any test failures specifically recorded for later-reference. Detailed settings for each component should be made using relevant operations manuals (e.g. USBL operations manual etc.).
+
+#### On-deck tests should include, but not limited to, the following checks:
 
 * on-board data storage
 
@@ -38,7 +44,7 @@ Set up and test AUV system. Allow sufficient time during survey mobilisation to 
 
 * check all surface communications
 
-*Wet** **testing** **should** **include** **checks** **of** **the** **following:*
+#### Wet testing should include checks of the following:
 
 * USBL and internal navigation (e.g. compass and avoidance sonar)
 
@@ -46,7 +52,7 @@ Set up and test AUV system. Allow sufficient time during survey mobilisation to 
 
 * through-water communications
 
-*Acoustic** **tracking** **setup*
+#### Acoustic tracking setup
 
 * Set position of GPS receiver. *Differential** **GPS** **is** **mandatory** **for** **repeat** **site** **monitoring.*
 
@@ -54,9 +60,9 @@ Set up and test AUV system. Allow sufficient time during survey mobilisation to 
 
 * Measure offsets of USBL transceiver head to GPS receiver and put offsets into navigation system.
 
-Conduct AUV transects
+### Conduct AUV transects
 
-*Pre-** **deployment*
+#### Pre- deployment
 
 * Transects should only be undertaken in areas where the substratum is known/mapped (often in the form of multibeam mapping) as to avoid entrapment and potential loss of AUV. Do not deploy blind, as this increases the risk of equipment loss and damage, as well as unnecessary impact on potentially vulnerable ecosystems.
 
@@ -70,7 +76,7 @@ Conduct AUV transects
 
 * Correctly insert the deployment release pin.
 
-*AUV** **deployment** **and** **retrieval*
+#### AUV deployment and retrieval
 
 1. Disconnect any power or data cables, ensuring any blanking plugs are fitted prior to deployment.
 
@@ -104,7 +110,7 @@ Conduct AUV transects
 
 16. Raise the USBL transducer (if pole mounted) before moving vessel to next location.
 
-*Procedures** **for** **seabed** **entanglement** **or** **loss** **of** **communications** **with** **AUV*
+#### Procedures for seabed entanglement or loss of communications with AUV
 
 Potential entanglement of the AUV is always a possibility. The following procedures should be followed upon entanglement:
 
@@ -118,7 +124,7 @@ Potential entanglement of the AUV is always a possibility. The following procedu
 
 5. Ensure that you check AUV thoroughly for damage before redeployment.
 
-*Completion** **of** **operations*
+#### Completion of operations
 
 Prior to any vessel movement or engine start-up, operators should check the following:
 
