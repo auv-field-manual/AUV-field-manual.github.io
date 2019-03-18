@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /auvs-in-marine-monitoring
+permalink: /AUVs-in-marine-monitoring
 title: "AUVs in marine monitoring"
 excerpt: ""
 image:
