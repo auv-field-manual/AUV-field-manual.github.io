@@ -27,14 +27,10 @@
   url: https://AUV-field-manual.github.io/post-survey-procedures
   excerpt: ""
   image: /5x8/06_5x8.jpg
-- title: "Field manual maintenance"
-  url: https://AUV-field-manual.github.io/field-manual-maintenance
-  excerpt: ""
-  image: /5x8/07_5x8.jpg
 - title: "References"
   url: https://AUV-field-manual.github.io/references
   excerpt: "Literature cited"
-  image: /5x8/08_5x8.jpg
+  image: /5x8/07_5x8.jpg
 - title: "Field Manual Homepage"
   url: https://marine-sampling-field-manual.github.io/
   excerpt: "Back to all field manuals"
