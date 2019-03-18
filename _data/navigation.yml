@@ -5,31 +5,31 @@
   image: /5x8/Home-blue_5x8.jpg
 - title: "Platform description"
   url: https://AUV-field-manual.github.io/platform-description
-  excerpt: "Comparison to other sampling methods, advantages, limitations and defintions"
+  excerpt: ""
   image: /5x8/01_5x8.jpg
 - title: "Scope"
   url: https://AUV-field-manual.github.io/scope
-  excerpt: "Scope for the benthic stereo-BRUVs field manual"
+  excerpt: "Scope for the AUV field manual"
   image: /5x8/02_5x8.jpg
 - title: "AUVs in marine monitoring"
   url: https://AUV-field-manual.github.io/AUVs-in-marine-monitoring
-  excerpt: "Uses and history of stereo-BRUVs"
+  excerpt: ""
   image: /5x8/03_5x8.jpg
 - title: "Pre-survey Preparations"
   url: https://AUV-field-manual.github.io/pre-survey-planning
-  excerpt: "Methodology and Pre-survey checklist"
+  excerpt: ""
   image: /5x8/04_5x8.jpg
 - title: "Field procedures"
   url: https://AUV-field-manual.github.io/field-procedures
-  excerpt: "Onboard sample acquisition, data processing and storage"
+  excerpt: ""
   image: /5x8/05_5x8.jpg
 - title: "Post-survey procedures"
   url: https://AUV-field-manual.github.io/post-survey-procedures
-  excerpt: "Data processing, annotation, curation, release, analysis and quality control"
+  excerpt: ""
   image: /5x8/06_5x8.jpg
 - title: "Field manual maintenance"
   url: https://AUV-field-manual.github.io/field-manual-maintenance
-  excerpt: "Version control and an example metadata table"
+  excerpt: ""
   image: /5x8/07_5x8.jpg
 - title: "References"
   url: https://AUV-field-manual.github.io/references
