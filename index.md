@@ -18,6 +18,6 @@ Vanessa Lucieer
 Chapter citation:
 Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Kendrick G, Lucieer V. 2018. Marine sampling field manual for autonomous underwater vehicles (AUVs). In Field Manuals for Marine Sampling to Monitor Australian Waters,Version 2. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP). 
 
-<center>><a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn">Sign up to mailing list</a></center>
+<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn">Sign up to mailing list</a></center>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn">Give feedback</a>
