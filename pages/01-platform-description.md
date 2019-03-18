@@ -7,8 +7,6 @@ image:
   feature: /banners/01_banner.jpg
 toc: true
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=2 %} 
-
 # Platform description
 Autonomous Underwater Vehicles (AUVs) are untethered robotic platforms that operate independently to complete pre-determined surveys. The endurance of AUVs typically range from hours to several days (Huvenne et al. 2018). However, with the rapid development of battery technology long-period deployments ranging from weeks to months are now possible (Furlong[ et](https://paperpile.com/c/ymogqX/44lo+q9Ui)[ al.](https://paperpile.com/c/ymogqX/44lo+q9Ui)[ 2012;](https://paperpile.com/c/ymogqX/44lo+q9Ui)[ Hobson](https://paperpile.com/c/ymogqX/44lo+q9Ui)[ et](https://paperpile.com/c/ymogqX/44lo+q9Ui)[ al.](https://paperpile.com/c/ymogqX/44lo+q9Ui)[ ](https://paperpile.com/c/ymogqX/44lo+q9Ui)2012). Maximum operational depths range from a few hundred metres for the smaller vehicles [(Wynn](https://paperpile.com/c/ymogqX/YvCo)[ et](https://paperpile.com/c/ymogqX/YvCo)[ al.](https://paperpile.com/c/ymogqX/YvCo)[ ](https://paperpile.com/c/ymogqX/YvCo)2014) to over 6000 m for larger units [(](https://paperpile.com/c/ymogqX/I1Vt)Huvenne[ et](https://paperpile.com/c/ymogqX/I1Vt)[ al.](https://paperpile.com/c/ymogqX/I1Vt)[ 2009)](https://paperpile.com/c/ymogqX/I1Vt). 
 
