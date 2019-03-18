@@ -6,7 +6,7 @@ excerpt: ""
 image:
   feature: /banners/05_banner.jpg
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=3 %}
+{% include toc.html class="toc-left" h_min=2 h_max=4 %}
 
 ## Onboard sample acquisition
 
