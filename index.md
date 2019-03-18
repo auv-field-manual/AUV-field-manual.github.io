@@ -19,6 +19,4 @@ Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Ke
 <center>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn"><i class="fa fa-user-plus"></i>Sign up to Mailing List</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn"><i class="fa fa-comments"></i>Give Feedback</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSezHvqOCPEp8f0xopHJ4nmoN6bhrdPzbKmInLuTQR7UNrTLRQ/viewform?usp=sf_link" class="btn"><i class="fa fa-download"></i>Download Manual</a> </center>
 
-<button class="btn"><i class="fa fa-home"></i> Home</button>
-
 
