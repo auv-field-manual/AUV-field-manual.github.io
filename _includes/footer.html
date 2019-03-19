@@ -12,5 +12,6 @@
 		{% endfor %}
 		</ul>
 	</nav><!-- /.bottom-menu -->
+  <a href="{{ domain }}{{ link.url }} class="btn"" {% if link.url contains 'http' %}target="_blank"{% endif %}> <img src= "{{ site.url }}/images/icons/{{ link.icon }}" width="20px" height="20px"> {{ link.title }}</a>
 	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> developed by Brooke Gibbons.</p>
 </footer>
