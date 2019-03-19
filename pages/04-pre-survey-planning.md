@@ -6,10 +6,6 @@ excerpt: ""
 image:
   feature: /banners/04_banner.jpg
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=2 %}
-
-## Pre-survey planning
-
 Ensure all permits, safety plans and approvals have been obtained. Any research undertaken within Australian Marine Parks (AMPs) requires a research permit issued from Parks Australia. See Appendix B for a list of potential permits needed.
 
 Define question/aim of project.
