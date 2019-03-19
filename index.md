@@ -15,8 +15,3 @@ page.button1.external_url:
 
 Chapter citation:
 Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Kendrick G, Lucieer V. 2018. Marine sampling field manual for autonomous underwater vehicles (AUVs). In Field Manuals for Marine Sampling to Monitor Australian Waters,Version 2. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP). 
-
-<center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdLtzlPU_xtuKtbSrOvKJbRcNZOOODGjhqiSvMOzgcccLaizw/viewform?usp=sf_link" class="btn" target="_blank"><i class="fa fa-user-plus"></i> Sign up to Mailing List</a> <a href="" class="btn" target="_blank"><i class="fa fa-comments"></i> Give Feedback</a> <a href="https://auv-field-manual.github.io/FieldManuals_NESPMarineHub_Chapter4_AUV.pdf" class="btn" target="_blank"><i class="fa fa-download"></i> Download Manual</a> </center>
-
-
