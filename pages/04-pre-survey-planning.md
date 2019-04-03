@@ -6,6 +6,7 @@ excerpt: ""
 image:
   feature: /banners/04_banner.jpg
 ---
+
 Ensure all permits, safety plans and approvals have been obtained. Any research undertaken within Australian Marine Parks (AMPs) requires a research permit issued from Parks Australia. See Appendix B for a list of potential permits needed.
 
 Define question/aim of project.
