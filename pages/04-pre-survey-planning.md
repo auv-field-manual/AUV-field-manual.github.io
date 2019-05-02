@@ -25,10 +25,10 @@ Decide on appropriate navigational systems (e.g. USBL). Accurately geo-reference
 
 Ensure appropriate software is installed on onboard laptops (e.g. AUV navigation software platform, GIS, etc), and potential users are familiar with it so that the AUV can be tracked and its mission success monitored while underway.
 
-![image alt text](image_1.png)
+![image alt text](images/figures/image_1.png)
 
 Figure 4.2 Examples of AUV transect designs over multibeam mapped reef features. Left: stand-alone 25 x 25 m dense grid transect. Middle: stand-alone broad grid. Right: combination of broad grid with a dense grid imbedded. Note with this design broad grid transects are usually shorter due to the time required to complete both grid types.
 
-![image alt text](image_2.png)
+![image alt text](images/figures/image_2.png)
 
 Figure 4.3 Example of spatial mismatch between sample time points for a 25x25 m grid in a high current/wave action environment. Note the limited overlap between all three sampling points.

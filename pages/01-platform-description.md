@@ -18,6 +18,6 @@ This document focuses on hover class AUVs can control their position and heading
 
 While most of the well-known AUVs used in scientific research are custom built, technological developments over the last five years have seen a number of ready-built, commercial units becoming available, with examples such as the cruising [Iver](http://www.iver-auv.com) and hovering [Subsea 7](http://www.subsea7.com/content/dam/subsea7/documents/technologyandassets/LOF_AIV.pdf) AUVs. The release of these units into the market will likely increase the uptake of AUVs for scientific research.
 
-![image alt text](image_0.png)
+![image alt text](images/figures/image_0.png)
 
 Figure 4.1 Examples of AUV classes. Left: an example of the cruising class AUV *Nupiri muka* operated by the University of Tasmania (photo credit: Damien Guihen). Right: an example of the hovering class AUV *Sirius* operated by Australian Centre for Field Robotics for Integrated Marine Observing System (Photo credit: Asher Flatt).
