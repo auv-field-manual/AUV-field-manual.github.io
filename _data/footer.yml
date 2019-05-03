@@ -1,5 +1,10 @@
 # Footer navigation links
-
-- title: "Download pdf version of manual"
-  url: https://auv-field-manual.github.io/FieldManuals_NESPMarineHub_Chapter4_AUV.pdf
-  icon: download-to-storage-drive.svg
+- title: "Sign up to Mailing List"
+  url: https://forms.gle/8qT4dAEkNQ7odiLV7
+  icon: fa fa-user-plus
+- title: "Give feedback"
+  url: https://forms.gle/frdQ5wvwLjz65jg76
+  icon: fa fa-comments
+- title: "Download Manual"
+  url: https://AUV-field-manual.github.io/files/FieldManuals_NESPMarineHub_Chapter4_AUV.pdf
+  icon: fa fa-download
