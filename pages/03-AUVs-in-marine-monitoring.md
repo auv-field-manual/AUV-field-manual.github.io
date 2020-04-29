@@ -2,7 +2,7 @@
 layout: home
 permalink: /AUVs-in-marine-monitoring
 title: "AUVs in marine monitoring"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/03_banner.jpg
 ---
