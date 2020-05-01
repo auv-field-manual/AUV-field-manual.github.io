@@ -4,7 +4,7 @@ permalink: /
 title: " Autonomous Underwater Vehicles"
 excerpt: ""
 image:
-  feature: /banners/00_banner.jpg
+  feature: /banners/04_banner.jpg
 page.button1.external_url:
   url: https://www.nespmarine.edu.au/
   caption: NESP
