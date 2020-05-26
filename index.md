@@ -20,13 +20,10 @@ Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Ke
 |-------------------------------------------------------------------------------------------------------------------------------------------|
 |  **[Platform Description](https://auv-field-manual.github.io/platform-description)**                                                      |
 |  **[Scope](https://auv-field-manual.github.io/scope)**                                                                                    |
-|  **AUVs in Marine Monitoring](https://auv-field-manual.github.io/auvs-in-marine-monitoring)**                                             |
+|  **[AUVs in Marine Monitoring](https://auv-field-manual.github.io/auvs-in-marine-monitoring)**                                             |
 |  **[Pre-Survey Preparations](https://auv-field-manual.github.io/pre-survey-preparations)**                                                |
 |  **[Field Procedures](https://auv-field-manual.github.io/data-acquisition)**                                                              |
 |       _[Onboard Sample Acquisition](https://auv-field-manual.github.io/field-procedures#onboard-sample-acquisition)_                      |
-|          [Complete an on-site briefing](https://auv-field-manual.github.io/field-procedures#onboard-sample-acquisition)                   |
-|          [Set up and test the AUV system](https://auv-field-manual.github.io/field-procedures#onboard-sample-acquisition)                 |
-|          [Conduct AUV transects](https://auv-field-manual.github.io/field-procedures#onboard-sample-acquisition)                          |
 |       _[Onboard data processing and storage](https://auv-field-manual.github.io/data-acquisition#survey-speed)_                           |
 |  **[Post-Survey Procedures](https://auv-field-manual.github.io/post-survey-procedures)**                                                  |
 |       _[Data processing](https://auv-field-manual.github.io/post-survey-procedures#data-processing)_                                      |
