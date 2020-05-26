@@ -6,7 +6,7 @@ excerpt: "<br>"
 image:
   feature: /banners/04_banner.jpg
 ---
-{% include toc.html class="toc-left" h_min=2 h_max=2 %}
+{% include toc.html class="toc-left" h_min=1 h_max=3 %}
 
 ## Data processing
 
