@@ -18,11 +18,6 @@ This document focuses on hover class AUVs can control their position and heading
 
 While most of the well-known AUVs used in scientific research are custom built, technological developments over the last five years have seen a number of ready-built, commercial units becoming available, with examples such as the cruising [Iver](http://www.iver-auv.com) and hovering [Subsea 7](http://www.subsea7.com/content/dam/subsea7/documents/technologyandassets/LOF_AIV.pdf) AUVs. The release of these units into the market will likely increase the uptake of AUVs for scientific research.
 
-![image alt text](images/figures/image_0.png)
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Chapter-4-AUV4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/Chapter-4-AUV4.png "image_tooltip")
 
