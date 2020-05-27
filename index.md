@@ -24,7 +24,7 @@ Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Ke
 |  **[Pre-Survey Preparations](https://auv-field-manual.github.io/pre-survey-preparations)**                                                |
 |  **[Field Procedures](https://auv-field-manual.github.io/field-procedures)**                                                              |
 |       _[Onboard sample acquisition](https://auv-field-manual.github.io/field-procedures#onboard-sample-acquisition)_                      |
-|       _[Onboard data processing and storage](https://auv-field-manual.github.io/field-procedures#Onboard-data-processing-and-storage)_    |
+|       _[Onboard data processing and storage](https://auv-field-manual.github.io/field-procedures#onboard-data-processing-and-storage)_    |
 |  **[Post-Survey Procedures](https://auv-field-manual.github.io/post-survey-procedures)**                                                  |
 |       _[Data processing](https://auv-field-manual.github.io/post-survey-procedures#data-processing)_                                      |
 |       _[Data annotation](https://auv-field-manual.github.io/post-survey-procedures#data-annotation)_                                      |
