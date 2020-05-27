@@ -20,7 +20,7 @@ Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Ke
 |-------------------------------------------------------------------------------------------------------------------------------------------|
 |  **[Platform Description](https://auv-field-manual.github.io/platform-description)**                                                      |
 |  **[Scope](https://auv-field-manual.github.io/scope)**                                                                                    |
-|  **[AUVs in Marine Monitoring](https://auv-field-manual.github.io/auvs-in-marine-monitoring)**                                             |
+|  **[AUVs in Marine Monitoring](https://auv-field-manual.github.io/auvs-in-marine-monitoring)**                                            |
 |  **[Pre-Survey Preparations](https://auv-field-manual.github.io/pre-survey-preparations)**                                                |
 |  **[Field Procedures](https://auv-field-manual.github.io/data-acquisition)**                                                              |
 |       _[Onboard sample acquisition](https://auv-field-manual.github.io/field-procedures#onboard-sample-acquisition)_                      |
