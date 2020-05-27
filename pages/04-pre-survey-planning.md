@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: /pre-survey-planning
-title: "Pre-survey planning"
+permalink: /pre-survey-preparations
+title: "Pre-survey Preparations"
 excerpt: "<br>"
 image:
   feature: /banners/04_banner.jpg
