@@ -9,22 +9,17 @@ image:
 {% include toc.html class="toc-left" h_min=2 h_max=3 %}
 
 ## Onboard sample acquisition
-
-
 ### <span style="text-decoration:underline;">Complete an on-site briefing</span>.
 
 Prior to deployment, a deployment briefing should always be completed to ensure the operation can be completed safely. Always take a precautionary approach to risks associated with vehicle deployment. See Chapter 1 for further information about risk assessments.
 
 
-### <span style="text-decoration:underline;">Set up and </span>test the AUV<span style="text-decoration:underline;"> system.</span> 
+### <span style="text-decoration:underline;">Set up and test the AUV system.</span> 
 
 Allow sufficient time during survey mobilisation to undertake system checks, calibrations and testing of equipment and account for unforeseen problems; in most cases it will be possible to complete all system setup and tests within half a day. The conduct of pre-start checks should be noted in the trip log and any test failures specifically recorded for later-reference. Detailed settings for each component should be made using relevant operations manuals (e.g. USBL operations manual etc.).
 
 
 #### On-deck tests should include, but not limited to, the following checks:
-
-
-
 *   on-board data storage
 *   on-board power
 *   cameras 
@@ -65,7 +60,7 @@ Allow sufficient time during survey mobilisation to undertake system checks, cal
 
 *   Transects should only be undertaken in areas where the substratum is known/mapped (often in the form of multibeam mapping) as to avoid entrapment and potential loss of AUV. Do not deploy blind, as this increases the risk of equipment loss and damage, as well as unnecessary impact on potentially vulnerable ecosystems.
 *   Once final transect locations have been determined, provide the locations of the transects (usually in ESRI shapefile format) and associated multibeam maps (in geotiff format) to the AUV engineers responsible for uploading missions. Cross-check the uploaded transect corresponds to the correct area on the geotiff (i.e. ensure the geographic coordinates are defined for all spatial data).
-*   The flight elevation of AUV should be set and maintained at ~ 2m from the seafloor to facilitate a consistent field of view. General sampling methodology can be found in Williams et al. (2012[)](https://paperpile.com/c/ymogqX/cwva). Although this needs to be informed by 'survey question', camera type and performance, illumination type and output power, etc.
+*   The flight elevation of AUV should be set and maintained at ~ 2m from the seafloor to facilitate a consistent field of view. General sampling methodology can be found in Williams et al. (2012). Although this needs to be informed by 'survey question', camera type and performance, illumination type and output power, etc.
 *   Prepare for AUV launch and recovery on deck, and ensure only essential personnel participate in its preparation and deployment.
 *   Place USBL transceiver in water and ensure functionality.
 *   Correctly insert the deployment release pin.

@@ -8,7 +8,6 @@ image:
 ---
 {% include toc.html class="toc-left" h_min=1 h_max=3 %}
 
-
 ## Data processing
 
 A general workflow for data processing methodology can be found in Williams et al. (2012). Key requirements for raw image processing and positional data are as follows:
@@ -36,7 +35,7 @@ Annotation of individual images or photomosaics can be undertaken using three me
 
 
 
-*   <span style="text-decoration:underline;">Full assemblage scoring of imagery</span> across space and time. It is important to note that this is a time-consuming process, requiring a lot of replicate images to be scored to enable sufficient power to detect biologically meaningful change as most morphospecies are &lt; 10 % cover within images. This approach appears to be good for delineating bioregional and cross-shelf patterns at a morphospecies (Monk,[ et al. ](https://paperpile.com/c/ymogqX/PLIP)unpublished data) and CATAMI (Althaus et al. 2015) level (James et al. 2017; Monk et al. 2016). This approach will no doubt be effective in choosing an initial suite of indicators for national level monitoring and reporting. 
+*   <span style="text-decoration:underline;">Full assemblage scoring of imagery</span> across space and time. It is important to note that this is a time-consuming process, requiring a lot of replicate images to be scored to enable sufficient power to detect biologically meaningful change as most morphospecies are &lt; 10 % cover within images. This approach appears to be good for delineating bioregional and cross-shelf patterns at a morphospecies (Monk, et al. unpublished data) and CATAMI (Althaus et al. 2015) level (James et al. 2017; Monk et al. 2016). This approach will no doubt be effective in choosing an initial suite of indicators for national level monitoring and reporting. 
 
     As a general guideline, and dependent on the survey question, we recommend that 25 random points per image from at least 50 images per transect leg are a good starting point for recording most morphospecies present within images (based on Perkins et al. 2016). It is important to note that the properties of the organism themselves will also influence the number of points/images to score. Obviously morphospecies that are less abundant require more effort, but also the 'clumpiness' of species will affect the scoring effort needed (Perkins et al. 2016). Van Rein et al. (2011) and Perkins et al.  (2016) suggest that, while a higher number of points per image can increase the detection rate of more organisms within an image, increasing the number of scored images using fewer points is likely to have a similar (or greater) effect. Ideally, increasing both the number of images scored and the number of points scored within an image would result in greater power (Roelfsema et al. 2006), but preference is usually for increasing the number of images (Perkins et al. 2016). Unfortunately, the adoption of this approach is likely to result in substantial increases in processing time and thus cost. 
 
@@ -266,11 +265,7 @@ Data quality control at both the collection and annotation stage is critical. Mo
 Other annotation schema are available, and can be applied. In such situations where an alternative schema are used to annotate AUV imagery, it must be able to be mapped to CATAMI so that comparisons can be made with previous studies or between regions. Translations between schema can be readily applied within Squidle+. The quality control of all annotations undertaken by novice scores should be assessed against an experienced analyst (e.g. using confusion matrices; Figure 4.4). Logically, it is important to correct any discrepancies between annotators. This can be done by re-examining the images to ensure an agreement can be reached between annotators. Alternatively, if an agreement cannot be reached, then the miss-classified morphospecies could be potentially grouped into a higher level CATAMI class.
 
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
+![alt_text](images/figures/figure_4.png "image_tooltip")
 
 
 Figure 4.4 Confusion matrix showing the CATAMI classes scored by novice 1 (AW) and experienced (JH) for 30 co-scored images. Black outlined boxes indicate consistent classification between scorers, the percent of all points scored as any particular class are shown in each box and colour coded. Blue outlined boxes indicate sponge, bryozoan/hydroid and substratum respectively moving from left to right across the image.
@@ -290,7 +285,7 @@ Following the steps listed below will ensure the timely release of imagery and a
 *   Otherwise, metadata records can be created and submitted via the [AODN Data Submission Tool](https://metadataentry.aodn.org.au/submit). Note that user registration is required, but this is free and immediate. \
 
 
-    Lodging metadata with AODN in advance of annotation data being available is an important step in documenting the methods and location of acquired imagery and enhancing future discoverability of the data.
+   Lodging metadata with AODN in advance of annotation data being available is an important step in documenting the methods and location of acquired imagery and enhancing future discoverability of the data.
 
 3. Upload raw imagery from the survey to a secure, publicly accessible online repository ([contact AODN](mailto:info@aodn.org.au) if you require assistance in locating a suitable repository).
 4. Create a Squidle+ campaign as soon as possible after imagery is uploaded, choose the most appropriate annotation schema, and commence annotation of imagery.
@@ -302,5 +297,4 @@ Following the steps listed below will ensure the timely release of imagery and a
 
 The breadth of research questions precludes any detailed advice on the analysis of data from AUV transects. However, one common attribute of the image-based data that will have to be contented with for all analyses is spatial proximity. The closeness of images, within and sometimes between transects, means that image data are unlikely to be independent (due to spatial autocorrelation). Yet, this is an assumption that many statistical methods rely upon. The failure to meet this assumption means that the inferences from the statistical analysis may be: (i) over-confident, e.g. having a p-value that is too small; (ii) biased, i.e. the estimates do not reflect the truth; (iii) both, or; (iv) no effect. Obviously, the fourth category is what a researcher hopes for, but it is improbable and must be validated. However, if it is known that the study organism exhibits particularly low autocorrelation then the analysis need not consider it explicitly. 
 
-Methods to analyse data, accounting for autocorrelation are available.  These include geostatistical models [(see ](https://paperpile.com/c/ymogqX/gHzq)Foster[ et al. ](https://paperpile.com/c/ymogqX/gHzq)2014 [for AUV-based examples)](https://paperpile.com/c/ymogqX/gHzq). However, in certain situations subsampling images will help [(see ](https://paperpile.com/c/ymogqX/snQQ)Mitchell[ et al. 2017 for a marine based example)](https://paperpile.com/c/ymogqX/snQQ), but not necessarily alleviate completely. Further, if the study is for a broad area, where transects are small and are well-separated, then amalgamating data to transect level may also be appropriate.
-
+Methods to analyse data, accounting for autocorrelation are available.  These include geostatistical models (see Foster et al. 2014 for AUV-based examples). However, in certain situations subsampling images will help (see Mitchell et al. 2017 for a marine based example), but not necessarily alleviate completely. Further, if the study is for a broad area, where transects are small and are well-separated, then amalgamating data to transect level may also be appropriate.
