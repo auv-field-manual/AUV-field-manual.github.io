@@ -7,7 +7,7 @@ image:
   feature: /banners/04_banner.jpg
 toc: true
 ---
-
+{% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 Autonomous Underwater Vehicles (AUVs) are untethered robotic platforms that operate independently to complete pre-determined surveys. The endurance of AUVs typically range from hours to several days (Huvenne et al. 2018). However, with the rapid development of battery technology long-period deployments ranging from weeks to months are now possible (Furlong et al. 2012; Hobson et al. 2012). Maximum operational depths range from a few hundred metres for the smaller vehicles (Wynn et al. 2014) to over 6000 m for larger units (Huvenne et al. 2009). 
 
@@ -20,11 +20,7 @@ This document focuses on hover class AUVs can control their position and heading
 While most of the well-known AUVs used in scientific research are custom built, technological developments over the last five years have seen a number of ready-built, commercial units becoming available, with examples such as the cruising [Iver](http://www.iver-auv.com) and hovering [Subsea 7](http://www.subsea7.com/content/dam/subsea7/documents/technologyandassets/LOF_AIV.pdf) AUVs. The release of these units into the market will likely increase the uptake of AUVs for scientific research.
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/figures/figure_1.png "image_tooltip")
 
 
 Figure 4.1 Examples of AUV classes. Left: an example of the cruising class AUV _Nupiri muka _operated by the University of Tasmania (photo credit: Damien Guihen). Right: an example of the hovering class AUV _Sirius _operated by Australian Centre for Field Robotics for Integrated Marine Observing System (Photo credit: Asher Flatt).
