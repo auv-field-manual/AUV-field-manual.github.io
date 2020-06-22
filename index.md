@@ -5,16 +5,14 @@ title: " Autonomous Underwater Vehicles"
 excerpt: ""
 image:
   feature: /banners/04_banner.jpg
-page.button1.external_url:
-  url: https://www.nespmarine.edu.au/
-  caption: NESP
 ---
-[Jacquomo Monk](mailto:Jacquomo.monk@utas.edu.au), [Neville Barrett](mailto:neville.barrett@utas.edu.au), Tom Bridge, Andrew Carroll, Ariell Friedman, Nicole Hill, Daniel Ierodiaconou, Alan Jordan, Gary Kendrick & Vanessa Lucieer
 
-![image alt text](images/AUV.png)
+<div align="center"><p style="font-size:20px;"><a href="mailto:Jacquomo.monk@utas.edu.au">Jacquomo Monk</a>, <a href="mailto:neville.barrett@utas.edu.au">Neville Barrett</a>, , Tom Bridge, Andrew Carroll, Ariell Friedman, Nicole Hill, Daniel Ierodiaconou, Alan Jordan, Gary Kendrick & Vanessa Lucieer</p></div><br>
+<img src="images/AUV.png" width="100%">
+<br>
+<br>
+<strong>Chapter citation:</strong><br>Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Kendrick G, Lucieer V. 2018. Marine sampling field manual for autonomous underwater vehicles (AUVs). In <i>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2</i>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
 
-Chapter citation:
-Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Kendrick G, Lucieer V. 2018. Marine sampling field manual for autonomous underwater vehicles (AUVs). In Field Manuals for Marine Sampling to Monitor Australian Waters,Version 2. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP). 
 
 | Chapter Contents                                                                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
