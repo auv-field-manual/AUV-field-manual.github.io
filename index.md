@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: main
 permalink: /
 title: " Autonomous Underwater Vehicles"
 excerpt: ""

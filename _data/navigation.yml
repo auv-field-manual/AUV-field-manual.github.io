@@ -1,7 +1,7 @@
 # Site navigation links
 - title: "Download Field Manual"
   url: https://AUV-field-manual.github.io/files/FieldManuals_NESPMarineHub_Chapter4_AUV.pdf
-  excerpt: "Download chapter as a PDF"
+  excerpt: ""
   image: /5x8/download_5x8.jpg
 - title: "Platform Description"
   url: https://AUV-field-manual.github.io/platform-description
@@ -9,7 +9,7 @@
   image: /5x8/01_5x8.jpg
 - title: "Scope"
   url: https://AUV-field-manual.github.io/scope
-  excerpt: "Scope for the AUV field manual"
+  excerpt: ""
   image: /5x8/02_5x8.jpg
 - title: "AUVs in Marine Monitoring"
   url: https://AUV-field-manual.github.io/AUVs-in-marine-monitoring
@@ -37,5 +37,5 @@
   image: /5x8/acknowledgements_teaser.jpg
 - title: "References"
   url: https://AUV-field-manual.github.io/references
-  excerpt: "Literature cited"
+  excerpt: ""
   image: /5x8/references_teaser.jpg
