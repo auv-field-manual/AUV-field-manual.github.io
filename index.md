@@ -7,7 +7,7 @@ image:
   feature: /banners/04_banner.jpg
 ---
 
-<div align="center"><p style="font-size:20px;"><a href="mailto:Jacquomo.monk@utas.edu.au">Jacquomo Monk</a>, <a href="mailto:neville.barrett@utas.edu.au">Neville Barrett</a>, , Tom Bridge, Andrew Carroll, Ariell Friedman, Nicole Hill, Daniel Ierodiaconou, Alan Jordan, Gary Kendrick & Vanessa Lucieer</p></div><br>
+<div align="center"><p style="font-size:20px;"><a href="mailto:Jacquomo.monk@utas.edu.au">Jacquomo Monk</a>, <a href="mailto:neville.barrett@utas.edu.au">Neville Barrett</a>, Tom Bridge, Andrew Carroll, Ariell Friedman, Nicole Hill, Daniel Ierodiaconou, Alan Jordan, Gary Kendrick & Vanessa Lucieer</p></div><br>
 <img src="images/AUV.png" width="100%">
 <br>
 <br>
