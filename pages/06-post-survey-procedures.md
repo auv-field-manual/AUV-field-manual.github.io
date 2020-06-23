@@ -264,9 +264,7 @@ Data quality control at both the collection and annotation stage is critical. Mo
 
 Other annotation schema are available, and can be applied. In such situations where an alternative schema are used to annotate AUV imagery, it must be able to be mapped to CATAMI so that comparisons can be made with previous studies or between regions. Translations between schema can be readily applied within Squidle+. The quality control of all annotations undertaken by novice scores should be assessed against an experienced analyst (e.g. using confusion matrices; Figure 4.4). Logically, it is important to correct any discrepancies between annotators. This can be done by re-examining the images to ensure an agreement can be reached between annotators. Alternatively, if an agreement cannot be reached, then the miss-classified morphospecies could be potentially grouped into a higher level CATAMI class.
 
-
-![alt_text](images/figures/figure_4.png "image_tooltip")
-
+<img src="images/figures/figure_4.png" width="100%">
 
 Figure 4.4 Confusion matrix showing the CATAMI classes scored by novice 1 (AW) and experienced (JH) for 30 co-scored images. Black outlined boxes indicate consistent classification between scorers, the percent of all points scored as any particular class are shown in each box and colour coded. Blue outlined boxes indicate sponge, bryozoan/hydroid and substratum respectively moving from left to right across the image.
 
