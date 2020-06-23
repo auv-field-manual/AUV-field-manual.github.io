@@ -29,8 +29,8 @@ Broad grids are generally used in mid-outer continental shelf Tasmanian waters a
 
 <img src="images/figures/Figure_2.png" width="100%">
 
-Figure 4.2 Examples of AUV transect designs over multibeam mapped reef features. Left: stand-alone 25 x 25 m dense grid transect. Middle: stand-alone broad grid. Right: combination of broad grid with a dense grid embedded. Note with this design broad grid transects are usually shorter due to the time required to complete both grid types.
+**Figure 4.2:** Examples of AUV transect designs over multibeam mapped reef features. Left: stand-alone 25 x 25 m dense grid transect. Middle: stand-alone broad grid. Right: combination of broad grid with a dense grid embedded. Note with this design broad grid transects are usually shorter due to the time required to complete both grid types.
 
 <img src="images/figures/figure_3.png" width="100%">
-Figure 4.3 Example of spatial mismatch between sample time points for a 25x25 m grid in a high current/wave action environment. Note the limited overlap between all three sampling points.
+**Figure 4.3:** Example of spatial mismatch between sample time points for a 25x25 m grid in a high current/wave action environment. Note the limited overlap between all three sampling points.
 

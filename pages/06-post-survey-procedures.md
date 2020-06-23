@@ -47,18 +47,18 @@ Annotation of individual images or photomosaics can be undertaken using three me
 
 The last approach to annotating AUV imagery involves the extraction of 3D structural information from stereo images using structure from motion techniques outlined in Ferrari et al. (2016) and Pizarro et al. (2017). This approach works particularly well too for sessile species to track changes in growth form through time at a 25 x 25 m scale (Ferrari et al. 2016). 
 
-Table 4.1 A brief summary of methods for automated benthic image classification. The number of classes and the main taxa included in the respective studies are also shown.
+**Table 4.1:** A brief summary of methods for automated benthic image classification. The number of classes and the main taxa included in the respective studies are also shown.
 
 
 <table>
+ <thead>
   <tr>
-   <td>Authors
-   </td>
-   <td>Classes
-   </td>
-   <td>Main Species
-   </td>
+   <td><strong>Authors</strong></td>
+   <td><strong>Classes</strong></td>
+   <td><strong>Main Species</strong></td>
   </tr>
+ </thead>
+ <tbody>
   <tr>
    <td>Marcos et al. (2005)
    </td>
@@ -139,6 +139,7 @@ Table 4.1 A brief summary of methods for automated benthic image classification.
    <td>Corals, Macroalgae
    </td>
   </tr>
+ </tbody>
 </table>
 
 
@@ -147,18 +148,18 @@ Table 4.1 A brief summary of methods for automated benthic image classification.
 
 A national AUV steering group has been set up to oversee a nationally coordinated AUV benthic monitoring program which is supported by the Integrated Marine Observing System (IMOS) (Table 4.2). Any new AUV deployments should be discussed with this steering group to ensure that, wherever possible, they can be integrated within the national program _[Recommended]_.
 
-Table 4.2 Key contacts in national AUV steering group as of Jan 2018
+**Table 4.2:** Key contacts in national AUV steering group as of Jan 2018
 
 
 <table>
+<thead>
   <tr>
-   <td>Name
-   </td>
-   <td>State
-   </td>
-   <td>Organisation
-   </td>
+   <td><strong>Name</strong></td>
+   <td><strong>State</strong></td>
+   <td><strong>Organisation</strong></td>
   </tr>
+ </thead>
+ <tbody>
   <tr>
    <td>Neville Barrett*
    </td>
@@ -255,6 +256,7 @@ Table 4.2 Key contacts in national AUV steering group as of Jan 2018
    <td>Deakin
    </td>
   </tr>
+ </tbody>
 </table>
 
 
@@ -266,7 +268,7 @@ Other annotation schema are available, and can be applied. In such situations wh
 
 <img src="images/figures/figure_4.png" width="100%">
 
-Figure 4.4 Confusion matrix showing the CATAMI classes scored by novice 1 (AW) and experienced (JH) for 30 co-scored images. Black outlined boxes indicate consistent classification between scorers, the percent of all points scored as any particular class are shown in each box and colour coded. Blue outlined boxes indicate sponge, bryozoan/hydroid and substratum respectively moving from left to right across the image.
+**Figure 4.4:** Confusion matrix showing the CATAMI classes scored by novice 1 (AW) and experienced (JH) for 30 co-scored images. Black outlined boxes indicate consistent classification between scorers, the percent of all points scored as any particular class are shown in each box and colour coded. Blue outlined boxes indicate sponge, bryozoan/hydroid and substratum respectively moving from left to right across the image.
 
 
 ## Data release
