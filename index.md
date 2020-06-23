@@ -19,11 +19,11 @@ image:
 |  **[Platform Description](https://auv-field-manual.github.io/platform-description)**                                                      |
 |  **[Scope](https://auv-field-manual.github.io/scope)**                                                                                    |
 |  **[AUVs in Marine Monitoring](https://auv-field-manual.github.io/AUVs-in-marine-monitoring)**                                            |
-|  **[Pre-Survey Preparations](https://auv-field-manual.github.io/pre-survey-preparations)**                                                |
+|  **[Pre-survey Preparations](https://auv-field-manual.github.io/pre-survey-preparations)**                                                |
 |  **[Field Procedures](https://auv-field-manual.github.io/field-procedures)**                                                              |
 |       _[Onboard sample acquisition](https://auv-field-manual.github.io/field-procedures#onboard-sample-acquisition)_                      |
 |       _[Onboard data processing and storage](https://auv-field-manual.github.io/field-procedures#onboard-data-processing-and-storage)_    |
-|  **[Post-Survey Procedures](https://auv-field-manual.github.io/post-survey-procedures)**                                                  |
+|  **[Post-survey Procedures](https://auv-field-manual.github.io/post-survey-procedures)**                                                  |
 |       _[Data processing](https://auv-field-manual.github.io/post-survey-procedures#data-processing)_                                      |
 |       _[Data annotation](https://auv-field-manual.github.io/post-survey-procedures#data-annotation)_                                      |
 |       _[Data curation and quality control](https://auv-field-manual.github.io/post-survey-procedures#data-curation-and-quality-control)_  |
