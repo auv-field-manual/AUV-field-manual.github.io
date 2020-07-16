@@ -30,7 +30,7 @@ image:
 |       _[Data release](https://auv-field-manual.github.io/post-survey-procedures#data-release)_                                            |
 |       _[Data analysis](https://auv-field-manual.github.io/post-survey-procedures#data-analysis)_                                          |
 |  **[Field Manual Maintenance](https://auv-field-manual.github.io/field-manual-maintenance)**                                              |
-|  **[Acknowledgments](https://auv-field-manual.github.io/acknowledgments)**                                                                |
+|  **[Acknowledgements](https://auv-field-manual.github.io/acknowledgements)**                                                                |
 |  **[References](https://auv-field-manual.github.io/references)**                                                                          |
 
 
