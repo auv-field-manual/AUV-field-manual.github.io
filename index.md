@@ -11,7 +11,7 @@ image:
 <img src="images/AUV.png" width="100%">
 <br>
 <br>
-<strong>Chapter citation:</strong><br>Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Kendrick G, Lucieer V. 2018. Marine sampling field manual for autonomous underwater vehicles (AUVs). In <i>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 2</i>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
+<strong>Chapter citation:</strong><br>Monk J, Barrett N, Bridge T, Carroll A, Friedman A, Ierodiaconou D, Jordan A, Kendrick G, Lucieer V. 2018. Marine sampling field manual for autonomous underwater vehicles (AUVs). In <i>Field Manuals for Marine Sampling to Monitor Australian Waters, Version 3</i>. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
 
 
 | Chapter Contents                                                                                                                          |
