@@ -12,8 +12,6 @@ image:
 
 A general workflow for data processing methodology can be found in Williams et al. (2012). Key requirements for raw image processing and positional data are as follows:
 
-
-
 *   It is recommended that at least one of the stereo images is in colour and enhanced following similar procedures as outlined by Bryson et al. (2016). 
 *   All stereo images should be georectified following Williams et al. (2012). If not stereo then processing routines can be found in Morris et al. (2014).
 *   Positional data should be post-processed using Simultaneous Localisation and Mapping (SLAM) as demonstrated in Barkby et al. (2009) and Palomer et al. (2013)
@@ -21,31 +19,27 @@ A general workflow for data processing methodology can be found in Williams et a
 
 ## Data annotation
 
-Scoring of individual images can be done using a number of annotation software tools. Examples include, Transect measure, Coral Point Count, CoralNet and Squidle+. For national consistency Squidle+ ([https://squidle.org](https://squidle.org)) is recommended as it is free and allows for different approaches in image subsampling, which appears to influence inferences from data (Monk et al. unpublished data), as well as stratified and random point count distribution on images. It also automatically imports the collected AUV data once it is uploaded to the AODN making it ready for analysis, and has tools for exploring survey data as well as analysis. In addition, it supports multiple annotation schemes, and will provide consistency through translation between schemes, which is an important point that differentiates Squidle+.
+Scoring of individual images can be done using a number of annotation software tools. Examples include, Transect measure, Coral Point Count, CoralNet and Squidle+. For national consistency, Squidle+ ([https://squidle.org](https://squidle.org)) is recommended as it is free and allows for different approaches in image subsampling, which appears to influence inferences from data (Monk et al. unpublished data), as well as stratified and random point count distribution on images. It also automatically imports the collected AUV data once it is uploaded to the AODN making it ready for analysis, and has tools for exploring survey data as well as analysis. In addition, it supports multiple annotation schemes, and will provide consistency through translation between schemes, which is an important point that differentiates Squidle+.
 
 There are three approaches recommended for annotating georeferenced imagery from AUVs:
-
-
 
 *   Annotation of individual images
 *   Annotation of photomosaics
 *   Extracting structural complexity from orthomosaics
 
-Annotation of individual images or photomosaics can be undertaken using three methods:
-
-
+A how-to guide about setting up annotation media sets within Squidle+ is provided at https://squidle.org/wiki. Annotation of individual images or photomosaics can be undertaken using three methods:
 
 *   <span style="text-decoration:underline;">Full assemblage scoring of imagery</span> across space and time. It is important to note that this is a time-consuming process, requiring a lot of replicate images to be scored to enable sufficient power to detect biologically meaningful change as most morphospecies are &lt; 10 % cover within images. This approach appears to be good for delineating bioregional and cross-shelf patterns at a morphospecies (Monk, et al. unpublished data) and CATAMI (Althaus et al. 2015) level (James et al. 2017; Monk et al. 2016). This approach will no doubt be effective in choosing an initial suite of indicators for national level monitoring and reporting. 
 
-    As a general guideline, and dependent on the survey question, we recommend that 25 random points per image from at least 50 images per transect leg are a good starting point for recording most morphospecies present within images (based on Perkins et al. 2016). It is important to note that the properties of the organism themselves will also influence the number of points/images to score. Obviously morphospecies that are less abundant require more effort, but also the 'clumpiness' of species will affect the scoring effort needed (Perkins et al. 2016). Van Rein et al. (2011) and Perkins et al.  (2016) suggest that, while a higher number of points per image can increase the detection rate of more organisms within an image, increasing the number of scored images using fewer points is likely to have a similar (or greater) effect. Ideally, increasing both the number of images scored and the number of points scored within an image would result in greater power (Roelfsema et al. 2006), but preference is usually for increasing the number of images (Perkins et al. 2016). Unfortunately, the adoption of this approach is likely to result in substantial increases in processing time and thus cost. 
+    As a general guideline, and dependent on the survey question, we recommend that 25 random points per image from at least 50 images per transect leg are a good starting point for recording most morphospecies present within images (based on Perkins et al. 2016). It is important to note that the properties of the organisms themselves will also influence the number of points/images to score. Obviously, morphospecies that are less abundant require more effort, but also the 'clumpiness' of species will affect the scoring effort needed (Perkins et al. 2016). Van Rein et al. (2011) and Perkins et al.  (2016) suggest that, while a higher number of points per image can increase the detection rate of more organisms within an image, increasing the number of scored images using fewer points is likely to have a similar (or greater) effect. Ideally, increasing both the number of images scored and the number of points scored within an image would result in greater power (Roelfsema et al. 2006), but preference is usually for increasing the number of images (Perkins et al. 2016). Unfortunately, the adoption of this approach is likely to result in substantial increases in processing time and thus cost. 
 
 *   <span style="text-decoration:underline;">Targeted scoring of indicators or proxies </span>(such as grouping fine level morphospecies into broader level CATAMI classes; Monk et al. unpublished data). This approach has been shown to work very well at an indicator morphospecies level for detecting change at a regional level (Perkins et al. 2017) as well as for detecting invasive species trends (Ling et al. 2016; Perkins et al. 2015). More recently this approach has been extended to mobile species, such as fish (Seiler et al. 2012) and lobster (Bessell et al. unpublished data). Care needs to be taken if length data (using photogrammetry or structure from motion) is extracted from stereo pairs from Sirius data as both Seiler et al. (2012) and Bessell et al. (unpublished data) found precision can be poor for mobile species if camera separation is inadequate (see Boutros et al. 2015)
 
     Since this approach requires substantially less effort to score each image, more images (i.e. often all images) can be scored and, thus, increased statistical power. The drawback is that narrower understanding of the environment is produced.
 
-*   <span style="text-decoration:underline;">Automated analysis of imagery</span> potentially provides a cost-effective alternative to annotating imagery from AUVs. It is important to note that automated imagery analysis is a relatively new, and largely developmental, way of annotating images. Despite this some studies suggest that coral and macroalgae can be reliably identified using automated image analysis (Table 7).
+*   <span style="text-decoration:underline;">Automated analysis of imagery</span> potentially provides a cost-effective alternative to annotating imagery from AUVs. It is important to note that automated imagery analysis is a relatively new, and largely developmental, way of annotating images. Despite this some studies suggest that coral and macroalgae can be reliably identified using automated image analysis (Table 7).In 2023, Squidle+ implemented automated annotation tools for the detection of urchins and the classification of <i>Ecklonia radiata</i>, canopy-forming macroalgae, mud/sand, hard-coral, seagrass and sponges. 
 
-The last approach to annotating AUV imagery involves the extraction of 3D structural information from stereo images using structure from motion techniques outlined in Ferrari et al. (2016) and Pizarro et al. (2017). This approach works particularly well too for sessile species to track changes in growth form through time at a 25 x 25 m scale (Ferrari et al. 2016). 
+The last approach to annotating AUV imagery involves the extracting 3D structural information from stereo images using structure from motion techniques outlined in Ferrari et al. (2016) and Pizarro et al. (2017). This approach works particularly well too for sessile species to track changes in growth form through time at a 25 x 25 m scale (Ferrari et al. 2016). 
 
 **Table 4.1:** A brief summary of methods for automated benthic image classification. The number of classes and the main taxa included in the respective studies are also shown.
 
@@ -262,13 +256,16 @@ A national AUV steering group has been set up to oversee a nationally coordinate
 
 * Chair
 
-Data quality control at both the collection and annotation stage is critical. Most importantly, the annotation schema needs to be consistent between studies. Morphospecies and associated CATAMI parent classes be used _[Recommended]_. An initial morphospecies catalogue for southeastern shelf waters is currently held and maintained at the Institute for Marine and Antarctic Studies (IMAS) (contact Dr Neville Barrett or Dr Jacquomo Monk). 
+Data quality control at both the collection and annotation stage is critical. Most importantly, the annotation schema needs to be consistent between studies. Squidle+ has a built-in QAQC interface to ensure the consistency of annotations with exemplars managed by schema custodians. Morphospecies and associated CATAMI parent classes be used _[Recommended]_. An initial morphospecies catalogue for southeastern shelf waters is currently held and maintained at the Institute for Marine and Antarctic Studies (IMAS) (contact Dr Neville Barrett or Dr Jacquomo Monk). 
 
-Other annotation schema are available, and can be applied. In such situations where an alternative schema are used to annotate AUV imagery, it must be able to be mapped to CATAMI so that comparisons can be made with previous studies or between regions. Translations between schema can be readily applied within Squidle+. The quality control of all annotations undertaken by novice scores should be assessed against an experienced analyst (e.g. using confusion matrices; Figure 4.4). Logically, it is important to correct any discrepancies between annotators. This can be done by re-examining the images to ensure an agreement can be reached between annotators. Alternatively, if an agreement cannot be reached, then the miss-classified morphospecies could be potentially grouped into a higher level CATAMI class.
+Other annotation schemas are available, and can be applied. In such situations where an alternative schema are used to annotate AUV imagery, it must be able to be mapped to CATAMI so that comparisons can be made with previous studies or between regions. Translations between schema can be readily applied within Squidle+. 
+
+The quality control of all annotations undertaken by novice scores should be assessed against an experienced analyst (e.g. using confusion matrices; Figure 4.4). Logically, it is important to correct any discrepancies between annotators. This can be done by re-examining the images to ensure an agreement can be reached between annotators. Alternatively, if an agreement cannot be reached, then the miss-classified morphospecies could be potentially grouped into a higher level CATAMI class.
+
 
 <img src="images/figures/figure_4.png" width="100%">
 
-**Figure 4.4:** Confusion matrix showing the CATAMI classes scored by novice 1 (AW) and experienced (JH) for 30 co-scored images. Black outlined boxes indicate consistent classification between scorers, the percent of all points scored as any particular class are shown in each box and colour coded. Blue outlined boxes indicate sponge, bryozoan/hydroid and substratum respectively moving from left to right across the image.
+**Figure 4.4:** Confusion matrix showing the CATAMI classes scored by novice 1 (AW) and experienced (JH) for 30 co-scored images. Black outlined boxes indicate consistent classification between scorers, the percent of all points scored as any particular class are shown in each box and colour-coded. Blue outlined boxes indicate sponge, bryozoan/hydroid and substratum respectively moving from left to right across the image.
 
 
 ## Data release
