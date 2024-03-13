@@ -44,98 +44,83 @@ The last approach to annotating AUV imagery involves the extracting 3D structura
 **Table 4.1:** A brief summary of methods for automated benthic image classification. The number of classes and the main taxa included in the respective studies are also shown.
 
 
-<table>
- <thead>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aoc0{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-jdcy{background-color:#629ACD;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5jfb{background-color:#CFE2F3;text-align:left;vertical-align:top}
+.tg .tg-a5br{background-color:#CFE2F3;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 869px">
+<colgroup>
+<col style="width: 289px">
+<col style="width: 276px">
+<col style="width: 304px">
+</colgroup>
+<thead>
   <tr>
-   <td><strong>Authors</strong></td>
-   <td><strong>Classes</strong></td>
-   <td><strong>Main Species</strong></td>
+    <th class="tg-aoc0"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Authors</span></th>
+    <th class="tg-jdcy"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Classes</span></th>
+    <th class="tg-jdcy"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Main Species</span></th>
   </tr>
- </thead>
- <tbody>
+</thead>
+<tbody>
   <tr>
-   <td>Marcos et al. (2005)
-   </td>
-   <td>3
-   </td>
-   <td>Corals
-   </td>
-  </tr>
-  <tr>
-   <td>Stokes & Deane (2009)
-   </td>
-   <td>18
-   </td>
-   <td>Corals, Macroalgae
-   </td>
-  </tr>
-  <tr>
-   <td>Pizarro et al. (2008)
-   </td>
-   <td>8
-   </td>
-   <td>Corals, Macroalgae
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Marcos et al. (2005)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals</span></td>
   </tr>
   <tr>
-   <td>Beijbom et al. (2012)
-   </td>
-   <td>9
-   </td>
-   <td>Corals, Macroalgae
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Stokes &amp; Deane (2009)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">18</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals, Macroalgae</span></td>
   </tr>
   <tr>
-   <td>Denuelle & Dunbabin (2010)
-   </td>
-   <td>2
-   </td>
-   <td>Kelp
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pizarro et al. (2008)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals, Macroalgae</span></td>
   </tr>
   <tr>
-   <td>Bewley et al. (2012)
-   </td>
-   <td>19
-   </td>
-   <td>Corals, Algae and Kelp
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Beijbom et al. (2012)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">9</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals, Macroalgae</span></td>
   </tr>
   <tr>
-   <td>Bewley et al. (2014)
-   </td>
-   <td>19
-   </td>
-   <td>Corals, Algae and Kelp
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Denuelle &amp; Dunbabin (2010)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Kelp</span></td>
   </tr>
   <tr>
-   <td>Beijbom et al. (2016)
-   </td>
-   <td>10
-   </td>
-   <td>Corals, Macroalgae
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bewley et al. (2012)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">19</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals, Algae and Kelp</span></td>
   </tr>
   <tr>
-   <td>Mahmood et al.(2016a)
-   </td>
-   <td>9
-   </td>
-   <td>Corals, Macroalgae
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bewley et al. (2014)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">19</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals, Algae and Kelp</span></td>
   </tr>
   <tr>
-   <td>Mahmood et al. (2016b)
-   </td>
-   <td>2
-   </td>
-   <td>Corals, Macroalgae
-   </td>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Beijbom et al. (2016)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">10</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals, Macroalgae</span></td>
   </tr>
- </tbody>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mahmood et al.(2016a)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">9</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals, Macroalgae</span></td>
+  </tr>
+  <tr>
+    <td class="tg-5jfb"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mahmood et al. (2016b)</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2</span></td>
+    <td class="tg-a5br"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Corals, Macroalgae</span></td>
+  </tr>
+</tbody>
 </table>
-
 
 
 ## Data curation and quality control
