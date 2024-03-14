@@ -11,7 +11,7 @@ image:
 
 <span style="text-decoration:underline;">Ensure all permits, safety plans and approvals have been obtained.</span> Any research undertaken within Australian Marine Parks (AMPs) requires a research permit issued from Parks Australia. Refer to AusSeabed’s permit guide for further useful information: [www.ausseabed.gov.au/resources/permit. ](https://www.ausseabed.gov.au/resources/permit)
 
-<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous leadership and collaboration](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration) in Chapter 1 for further details.
+<span style="text-decoration:underline;">Define question/aim of project</span>. This may be done in conjunction with local communities including Traditional Owners. See [Indigenous Leadership and Collaboration](https://introduction-field-manual.github.io/universal-protocols#indigenous-leadership-and-collaboration) in Chapter 1 for further details.
 
 <span style="text-decoration:underline;">Confirm sampling design</span> is statistically sound with adequate spatial coverage and replication, and addresses the initial question/aim. This is generally achieved through the use of an explicit randomization procedure to ensure that independent replicates are obtained [(](https://paperpile.com/c/ymogqX/NWtd+4W1f)Foster et al. 2017; Smith et al. 2017). See Chapter 2 for further details on sampling design.
 
